@@ -1,4 +1,4 @@
-# Project Data Science : Text-Mining 
+# Project Data Science : Text Mining 
 
 News/Nouvelles
 
